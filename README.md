@@ -1,3 +1,4 @@
-<h1>Jackson Servant</a> <br/>Cybersecurity Professional</a>
+# Jackson Servant  
+**Cybersecurity Professional**
 
-[linkedin]: [https://www.linkedin.com/in/jacksonservant]
+[LinkedIn](https://www.linkedin.com/in/jacksonservant)
